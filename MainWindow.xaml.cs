@@ -544,10 +544,7 @@ namespace ShapeGame
         #endregion Kinect Speech processing
     }
 }
-<<<<<<< HEAD
-//つだだよ
-=======
+//つだだよ!!!!!!!!!!!
 
 //2016/09/13
->>>>>>> de1851f71571758bed0236fb40956a8c5b058f28
 //C:\H28創造工学\ShapeGame\Properties\Resources.Designer.cs
